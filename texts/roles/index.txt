@@ -1,0 +1,14 @@
+📡 Röle / Bölge Listesi
+
+/role 1 - İstanbul
+/role 2 - Marmara
+/role 3 - Ege
+/role 4 - Akdeniz
+/role 5 - İç Anadolu
+/role 6 - Karadeniz
+/role 7 - Doğu Anadolu
+/role 8 - Güneydoğu Anadolu
+/role 9 - Genel Röleler
+
+Kullanım:
+/role 1

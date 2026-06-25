@@ -1,0 +1,14 @@
+📡 ROLE 3
+
+Bu role dosyasını düzenleyin.
+
+/opt/meshtasturk-bot-pro/texts/roles/3.txt
+
+Örnek format:
+
+Röle Adı
+Şehir
+RX: 000.000 MHz
+TX: 000.000 MHz
+Tone: 88.5 Hz
+Band: VHF/UHF

@@ -1,0 +1,15 @@
+📡 ROLE 1 - İstanbul Röleleri
+
+Kayışdağı TRAC
+İstanbul
+RX: 145.675 MHz
+TX: 145.075 MHz
+Tone: 88.5 Hz
+Band: VHF
+
+Tekstilkent
+İstanbul
+RX: 439.200 MHz
+TX: 431.600 MHz
+Tone: 88.5 Hz
+Band: UHF
